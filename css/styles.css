@@ -108,8 +108,7 @@ img {
   color: var(--main-title-color);
   transition: color var(--transition-dur-and-func);
 }
-
-.nav-list-item:hover,
+. .nav-list-item:hover,
 .nav-list-item:focus {
   color: var(--main-bgr-color);
 }
